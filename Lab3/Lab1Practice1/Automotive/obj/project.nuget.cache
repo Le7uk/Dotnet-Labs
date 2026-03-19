@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HqGm0vGj9xY=",
+  "success": true,
+  "projectFilePath": "D:\\Programing\\С#\\Lab3\\Lab1Practice1\\Automotive\\Automotive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guest_Lev\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.14\\microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\Guest_Lev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.14\\microsoft.windowsdesktop.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\Guest_Lev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.14\\microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

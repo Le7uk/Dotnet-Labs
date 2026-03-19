@@ -1,0 +1,23 @@
+D:\Projects\C# labs\Lab3\Lab1Practice1\Automotive\bin\Debug\net9.0\Automotive.deps.json
+D:\Projects\C# labs\Lab3\Lab1Practice1\Automotive\bin\Debug\net9.0\Automotive.dll
+D:\Projects\C# labs\Lab3\Lab1Practice1\Automotive\bin\Debug\net9.0\Automotive.pdb
+D:\Projects\C# labs\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\Automotive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C# labs\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\Automotive.AssemblyInfoInputs.cache
+D:\Projects\C# labs\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\Automotive.AssemblyInfo.cs
+D:\Projects\C# labs\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\Automotive.csproj.CoreCompileInputs.cache
+D:\Projects\C# labs\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\Automotive.sourcelink.json
+D:\Projects\C# labs\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\Automotive.dll
+D:\Projects\C# labs\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\refint\Automotive.dll
+D:\Projects\C# labs\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\Automotive.pdb
+D:\Projects\C# labs\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\ref\Automotive.dll
+D:\Programing\С#\Lab3\Lab1Practice1\Automotive\bin\Debug\net9.0\Automotive.deps.json
+D:\Programing\С#\Lab3\Lab1Practice1\Automotive\bin\Debug\net9.0\Automotive.dll
+D:\Programing\С#\Lab3\Lab1Practice1\Automotive\bin\Debug\net9.0\Automotive.pdb
+D:\Programing\С#\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\Automotive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\С#\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\Automotive.AssemblyInfoInputs.cache
+D:\Programing\С#\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\Automotive.AssemblyInfo.cs
+D:\Programing\С#\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\Automotive.csproj.CoreCompileInputs.cache
+D:\Programing\С#\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\Automotive.dll
+D:\Programing\С#\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\refint\Automotive.dll
+D:\Programing\С#\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\Automotive.pdb
+D:\Programing\С#\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\ref\Automotive.dll
