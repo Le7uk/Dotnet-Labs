@@ -21,3 +21,4 @@ D:\Programing\С#\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\Automotive.dll
 D:\Programing\С#\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\refint\Automotive.dll
 D:\Programing\С#\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\Automotive.pdb
 D:\Programing\С#\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\ref\Automotive.dll
+D:\Programing\С#\Lab3\Lab1Practice1\Automotive\obj\Debug\net9.0\Automotive.sourcelink.json

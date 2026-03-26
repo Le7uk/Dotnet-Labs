@@ -201,3 +201,4 @@ D:\Programing\С#\Lab3\Lab1Practice1\Geometry.Tests\obj\Debug\net10.0\refint\Geo
 D:\Programing\С#\Lab3\Lab1Practice1\Geometry.Tests\obj\Debug\net10.0\Geometry.Tests.pdb
 D:\Programing\С#\Lab3\Lab1Practice1\Geometry.Tests\obj\Debug\net10.0\Geometry.Tests.genruntimeconfig.cache
 D:\Programing\С#\Lab3\Lab1Practice1\Geometry.Tests\obj\Debug\net10.0\ref\Geometry.Tests.dll
+D:\Programing\С#\Lab3\Lab1Practice1\Geometry.Tests\obj\Debug\net10.0\Geometry.Tests.sourcelink.json

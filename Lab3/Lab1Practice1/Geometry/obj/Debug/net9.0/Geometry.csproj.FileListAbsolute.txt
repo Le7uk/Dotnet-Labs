@@ -21,3 +21,4 @@ D:\Programing\С#\Lab3\Lab1Practice1\Geometry\obj\Debug\net9.0\Geometry.dll
 D:\Programing\С#\Lab3\Lab1Practice1\Geometry\obj\Debug\net9.0\refint\Geometry.dll
 D:\Programing\С#\Lab3\Lab1Practice1\Geometry\obj\Debug\net9.0\Geometry.pdb
 D:\Programing\С#\Lab3\Lab1Practice1\Geometry\obj\Debug\net9.0\ref\Geometry.dll
+D:\Programing\С#\Lab3\Lab1Practice1\Geometry\obj\Debug\net9.0\Geometry.sourcelink.json

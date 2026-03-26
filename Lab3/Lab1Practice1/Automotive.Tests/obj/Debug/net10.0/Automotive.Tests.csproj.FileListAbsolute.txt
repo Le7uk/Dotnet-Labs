@@ -201,3 +201,4 @@ D:\Programing\С#\Lab3\Lab1Practice1\Automotive.Tests\obj\Debug\net10.0\refint\A
 D:\Programing\С#\Lab3\Lab1Practice1\Automotive.Tests\obj\Debug\net10.0\Automotive.Tests.pdb
 D:\Programing\С#\Lab3\Lab1Practice1\Automotive.Tests\obj\Debug\net10.0\Automotive.Tests.genruntimeconfig.cache
 D:\Programing\С#\Lab3\Lab1Practice1\Automotive.Tests\obj\Debug\net10.0\ref\Automotive.Tests.dll
+D:\Programing\С#\Lab3\Lab1Practice1\Automotive.Tests\obj\Debug\net10.0\Automotive.Tests.sourcelink.json
