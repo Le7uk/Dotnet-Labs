@@ -1,28 +1,34 @@
 using System.Collections;
 
-Console.WriteLine("=== Task 3: Basic TextAnalyzer ===");
+var bond = new PersonName("James", "Bond");
+foreach (var name in bond)
+    Console.WriteLine(name);
+
+var rock = new PersonName("Dwayne", "Johnson", "Rock");
+Console.WriteLine(rock.Skip(1).First());
+
+var bebeto = new PersonName("José", "de Oliveira", "Roberto", "Gama");
+foreach (var name in bebeto)
+    Console.WriteLine(name);
+
 var a1 = new TextAnalyzer("Hello, World!");
 foreach (var ch in a1)
     Console.Write(ch + " ");
 Console.WriteLine();
 
-Console.WriteLine("\n=== Task 4: Letters and digits only ===");
 var a2 = new TextAnalyzer("Hello, World! 123 \t test");
 foreach (var ch in a2)
     Console.Write(ch + " ");
 Console.WriteLine();
 
-Console.WriteLine("\n=== Task 4: LINQ ===");
 using var a3 = new TextAnalyzer("Hello World 42");
 Console.WriteLine($"Count: {a3.Count()}");
 Console.WriteLine($"First: {a3.First()}");
 Console.WriteLine($"Has digits: {a3.Any(char.IsDigit)}");
 
-Console.WriteLine("\n=== Task 5: IDisposable ===");
 using var a4 = new TextAnalyzer("C# is awesome 2026!");
 Console.WriteLine("Chars: " + string.Join(", ", a4));
 
-Console.WriteLine("\n=== Schedule (Table 1) ===");
 var schedule = new Schedule(new DateTime(2026, 5, 1), 7);
 int total = 0, withHour = 0;
 DateTime last = default;
@@ -34,6 +40,31 @@ foreach (var dt in schedule)
     last = dt;
 }
 Console.WriteLine($"Total: {total}, With Hour==1: {withHour}, Last: {last:yyyy-MM-dd}");
+
+
+public class PersonName : IEnumerable<string>
+{
+    public string FirstName { get; }
+    public string LastName { get; }
+    public string[] MiddleNames { get; }
+
+    public PersonName(string firstName, string lastName, params string[] middleNames)
+    {
+        FirstName = firstName;
+        LastName = lastName;
+        MiddleNames = middleNames;
+    }
+
+    IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
+
+    public IEnumerator<string> GetEnumerator()
+    {
+        yield return FirstName;
+        foreach (var middle in MiddleNames)
+            yield return middle;
+        yield return LastName;
+    }
+}
 
 
 public class TextAnalyzer : IEnumerable<char>, IDisposable
@@ -102,19 +133,4 @@ public class Schedule : IEnumerable<DateTime>
     }
 
     IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
-}
-
-
-public class PersonName
-{
-    public string FirstName { get; }
-    public string MiddleName { get; }
-    public string LastName { get; }
-
-    public PersonName(string firstName, string lastName, string middleName = null)
-    {
-        FirstName = firstName;
-        MiddleName = middleName;
-        LastName = lastName;
-    }
 }
