@@ -1,0 +1,2 @@
+Ford;Mondeo;60;6.5;27;200
+Toyota;Corolla;50;6;24;100
